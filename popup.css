@@ -1,0 +1,15 @@
+body {
+  width: 400px;
+  height: 400px;
+}
+
+h1 {
+  display: inline-block;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.make-it-inline {
+  display: inline;
+  margin: 0;
+}
